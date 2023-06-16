@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Online Assessment Tool - Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the frontend codebase for the Online Assessment Tool project. It is built with React and Redux.
 
 ## Available Scripts
 
